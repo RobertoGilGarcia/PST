@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+**/.idea/
+target/
+*.pcap
+*large*.txt
+*.tgz
+credentials.txt
